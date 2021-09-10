@@ -1,0 +1,10 @@
+## anchore_values.yaml
+
+postgresql:
+  postgresPassword: "80669146856"
+  persistence:
+    size: 5Gi
+
+anchoreGlobal:
+  defaultAdminPassword: "80669146856"
+  defaultAdminEmail: "benox13@gmail.com"
